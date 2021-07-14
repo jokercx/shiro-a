@@ -1,0 +1,6 @@
+create table department(
+	id int not null PRIMARY key auto_increment,
+	name varchar(20),
+	manager varchar(25)
+);
+insert into department(name,manager)values('部门1','洋葱1'),('部门2','洋葱2'),('部门3','洋葱3'),('部门4','洋葱4');
