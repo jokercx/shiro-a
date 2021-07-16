@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$USER_HOME$/Desktop/artell/新建文件夹 (2)/demo" />
+    <file type="web" url="file://$PROJECT_DIR$/myshiro" />
     <file type="web" url="file://$PROJECT_DIR$/SSM/SSM.Web" />
   </component>
   <component name="MavenProjectsManager">
@@ -8,6 +10,8 @@
       <list>
         <option value="$PROJECT_DIR$/SSM/pom.xml" />
         <option value="$PROJECT_DIR$/aa/pom.xml" />
+        <option value="$PROJECT_DIR$/Artell/pom.xml" />
+        <option value="$PROJECT_DIR$/myshiro/pom.xml" />
       </list>
     </option>
   </component>

@@ -6,22 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="aa" />
-        <module name="SSM.Entry" />
-        <module name="SSM.Service" />
-        <module name="SSM.Web" />
-        <module name="SSM.Dao" />
-        <module name="SSM.Controller" />
+        <module name="myshiro" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="aa" target="8" />
+      <module name="Artell" target="1.5" />
+      <module name="controller" target="1.5" />
+      <module name="Dao" target="1.5" />
+      <module name="demo" target="1.8" />
+      <module name="Entity" target="1.5" />
+      <module name="Mapper" target="1.5" />
+      <module name="myshiro" target="1.7" />
+      <module name="Service" target="1.5" />
       <module name="SSM" target="1.5" />
       <module name="SSM.Controller" target="1.5" />
       <module name="SSM.Dao" target="1.5" />
       <module name="SSM.Entry" target="1.5" />
       <module name="SSM.Service" target="1.5" />
       <module name="SSM.Web" target="1.5" />
+      <module name="Web" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

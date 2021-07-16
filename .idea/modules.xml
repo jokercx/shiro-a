@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SSM/SSM.iml" filepath="$PROJECT_DIR$/SSM/SSM.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SSM/SSM.Controller/SSM.Controller.iml" filepath="$PROJECT_DIR$/SSM/SSM.Controller/SSM.Controller.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SSM/SSM.Dao/SSM.Dao.iml" filepath="$PROJECT_DIR$/SSM/SSM.Dao/SSM.Dao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SSM/SSM.Entry/SSM.Entry.iml" filepath="$PROJECT_DIR$/SSM/SSM.Entry/SSM.Entry.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SSM/SSM.Service/SSM.Service.iml" filepath="$PROJECT_DIR$/SSM/SSM.Service/SSM.Service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SSM/SSM.Web/SSM.Web.iml" filepath="$PROJECT_DIR$/SSM/SSM.Web/SSM.Web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aa/aa.iml" filepath="$PROJECT_DIR$/aa/aa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myshiro/myshiro.iml" filepath="$PROJECT_DIR$/myshiro/myshiro.iml" />
     </modules>
   </component>
 </project>
